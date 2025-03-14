@@ -66,6 +66,8 @@ def read_text_from_image(img, read_type=0):
     
     return text_output
 ```
+## Output
+[MAKE TEXT\nSTAND OUT FROM\n) BACKGROUNDS ]
 
 ### Example Usage
 
